@@ -7,11 +7,6 @@
 ### [axis-praxis](https://www.axis-praxis.org/specimens/__DEFAULT__)
 ### And explanation on [medium.com](https://medium.com/clear-left-thinking/how-to-use-variable-fonts-in-the-real-world-e6d73065a604)
 
-Font info
-File nameGingham.ttf
-File size20388 bytes
-Errorsnone
-Resources1. Koe.berlin: Gingham, A Free Variable Font
 
 ## Source: [axis-praxis](https://www.axis-praxis.org/specimens/gingham)
 
